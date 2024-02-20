@@ -30,12 +30,12 @@ Este es un proyecto de un encriptador de texto desarrolado utilizando HTML, CSS 
  
   ## Capturas de Pantalla
 
-   ![Página de Inicio del encriptador de texto] ([Screenshots/captura-proyecto-1.png](https://imgur.com/SHDms2r))
-   ![Ingreso de texto a encriptar] ([Screenshots/captura-proyecto-2.png](https://imgur.com/hJRzRYq))
-   ![Obtención de texto encriptado] ([Screenshots/captura-proyecto-3.png](https://imgur.com/fGKXWMT))
-   ![Copiado de texto a portapapeles] ([https://imgur.com/4dZgcNZ](https://imgur.com/4dZgcNZ))
-   ![Pegado de texto encriptado para desencriptado] ([Screenshots/captura-proyecto-5.png](https://imgur.com/VvKztMx))
-   ![Obtención de texto desencriptado] ([Screenshots/captura-proyecto-6.png](https://imgur.com/1U90i5k))
+  - ![Página de Inicio del encriptador de texto]([Screenshots/captura-proyecto-1.png](https://imgur.com/SHDms2r))
+  - ![Ingreso de texto a encriptar]([Screenshots/captura-proyecto-2.png](https://imgur.com/hJRzRYq))
+  - ![Obtención de texto encriptado]([Screenshots/captura-proyecto-3.png](https://imgur.com/fGKXWMT))
+  - ![Copiado de texto a portapapeles]([https://imgur.com/4dZgcNZ](https://imgur.com/4dZgcNZ))
+  - ![Pegado de texto encriptado para desencriptado]([Screenshots/captura-proyecto-5.png](https://imgur.com/VvKztMx))
+  - ![Obtención de texto desencriptado]([Screenshots/captura-proyecto-6.png](https://imgur.com/1U90i5k))
 
   ## GitHub Page
 

@@ -4,11 +4,11 @@ Este es un proyecto de un encriptador de texto desarrolado utilizando HTML, CSS 
 
 ## Fucionalidades
 
--**Encriptar Texto:** Convierte el texto ingresado en un formato encriptado.
--**Desencriptar Texto:** Decifra el texto encriptado y lo muestra en su formato original.
--**Copiar Texto encriptado/desencriptado:** Se ha añadido un botón para copiar el texto encriptado o desencriptado al portapapeles, lo que agiliza y/o facilita la experiencia del usuario.
+- **Encriptar Texto:** Convierte el texto ingresado en un formato encriptado.
+- **Desencriptar Texto:** Decifra el texto encriptado y lo muestra en su formato original.
+- **Copiar Texto encriptado/desencriptado:** Se ha añadido un botón para copiar el texto encriptado o desencriptado al portapapeles, lo que agiliza y/o facilita la experiencia del usuario.
 
-## Características
+## Tecnologías Utilizadas
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,20 +22,20 @@ Este es un proyecto de un encriptador de texto desarrolado utilizando HTML, CSS 
 - ## Uso
 
 - 1. Clona este repositorio o descarga los archivos.
-  2. Abre el archivo 'index.html' en tu navegador web.
-  3. Ingresa el texto que deseas encriptar o desencriptar.
-  4. Selecciona la opción correspondiente para encriptar o desencriptar.
-  5. Utiliza el botón para "Copiar" para copiar el texto obtenido al portapapeles.
-  6. ¡Disfuta de tu encriptador de Texto!
+- 2. Abre el archivo 'index.html' en tu navegador web.
+- 3. Ingresa el texto que deseas encriptar o desencriptar.
+- 4. Selecciona la opción correspondiente para encriptar o desencriptar.
+- 5. Utiliza el botón para "Copiar" para copiar el texto obtenido al portapapeles.
+- 6. ¡Disfuta de tu encriptador de Texto!
  
   ## Capturas de Pantalla
 
-  - ![Página de Inicio del encriptador de texto] (Screenshots/captura-proyecto-1.png)
-  - ![Ingreso de texto a encriptar] (Screenshots/captura-proyecto-2.png)
-  - ![Obtención de texto encriptado] (Screenshots/captura-proyecto-3.png)
-  - ![Copiado de texto a portapapeles] (Screenshots/captura-proyecto-4.png)
-  - ![Pegado de texto encriptado para desencriptado] (Screenshots/captura-proyecto-5.png)
-  - ![Obtención de texto desencriptado] (Screenshots/captura-proyecto-6.png)
+  - ![Página de Inicio del encriptador de texto] ([Screenshots/captura-proyecto-1.png](https://imgur.com/SHDms2r))
+  - ![Ingreso de texto a encriptar] ([Screenshots/captura-proyecto-2.png](https://imgur.com/hJRzRYq))
+  - ![Obtención de texto encriptado] ([Screenshots/captura-proyecto-3.png](https://imgur.com/fGKXWMT))
+  - ![Copiado de texto a portapapeles] ([https://imgur.com/4dZgcNZ](https://imgur.com/4dZgcNZ))
+  - ![Pegado de texto encriptado para desencriptado] ([Screenshots/captura-proyecto-5.png](https://imgur.com/VvKztMx))
+  - ![Obtención de texto desencriptado] ([Screenshots/captura-proyecto-6.png](https://imgur.com/1U90i5k))
 
   ## GitHub Page
 

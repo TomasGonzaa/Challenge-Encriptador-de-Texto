@@ -30,12 +30,12 @@ Este es un proyecto de un encriptador de texto desarrolado utilizando HTML, CSS 
  
   ## Capturas de Pantalla
 
-  - ![Página de Inicio del encriptador de texto]((https://imgur.com/SHDms2r))
-  - ![Ingreso de texto a encriptar](https://imgur.com/hJRzRYq)
-  - ![Obtención de texto encriptado](https://imgur.com/fGKXWMT)
-  - ![Copiado de texto a portapapeles](https://imgur.com/4dZgcNZ)
-  - ![Pegado de texto encriptado para desencriptado](https://imgur.com/VvKztMx)
-  - ![Obtención de texto desencriptado](https://imgur.com/1U90i5k)
+  - ![Página de Inicio del encriptador de texto]([(https://imgur.com/SHDms2r)](https://imgur.com/Mj8EMFV))
+  - ![Ingreso de texto a encriptar]([https://imgur.com/hJRzRYq](https://imgur.com/R6zIglB))
+  - ![Obtención de texto encriptado]([https://imgur.com/fGKXWMT](https://imgur.com/V0z3eN1))
+  - ![Copiado de texto a portapapeles]([https://imgur.com/4dZgcNZ](https://imgur.com/FsGzavX))
+  - ![Pegado de texto encriptado para desencriptado]([https://imgur.com/VvKztMx](https://imgur.com/PVlnvb8))
+  - ![Obtención de texto desencriptado]([https://imgur.com/1U90i5k](https://imgur.com/obAYO7e))
 
   ## GitHub Page
 
